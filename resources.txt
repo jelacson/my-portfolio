@@ -2,3 +2,4 @@ tutorial: https://www.freecodecamp.org/news/build-portfolio-website-react/
 Sir Blaise website: https://www.blaisecruz.com
 Dribbble inspo: https://dribbble.com/shots/22413177-Frontend-Developer-Portfolio
                 https://dribbble.com/shots/15860874-Simple-Portfolio-Freelancer-Developer
+                https://www.behance.net/gallery/59233065/Web-Developer-Portfolio-Page
