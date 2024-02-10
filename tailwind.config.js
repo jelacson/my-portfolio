@@ -3,6 +3,9 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
+    colors: {
+      vermillion: "#e34234",
+    },
   },
   variants: {
     extend: {},
