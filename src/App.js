@@ -7,7 +7,7 @@ import Projects from "./components/Projects";
 
 export default function App() {
   return (
-    <main className="text-black-400 bg-white-900 body-font">
+    <main className="text-white-400 bg-white-900 body-font">
       <Navbar />
       <Home />
       <About />
